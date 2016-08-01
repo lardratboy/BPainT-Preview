@@ -22,3 +22,4 @@ and
 Brad P. Taylor,
 July 2016
 
+( oh yeah ignore the non public beta message in the about box. )
