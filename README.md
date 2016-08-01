@@ -8,16 +8,16 @@ BPainT is a pixel art/animation tool, it's main strength is in feeling comfortab
 
 ### Highlights
 
-Pixel art focused
-Bitmap brush based primitives
-Multiple palettes per animation
-Art optimization tools for managing duplicate assets.Frames/Layers with text annotations for notes or help data export.
+* Pixel art focused
+* Bitmap brush based primitives
+* Multiple palettes per animation
+* Art optimization tools for managing duplicate assets.Frames/Layers with text annotations for notes or help data export.
 
 and
 
-Hotkeys that are inspired by Deluxe Paint
+* Hotkeys that are inspired by Deluxe Paint
 
-oh and a buggy but if you want it hard enough way to generate an xml/bmp file stream that you can use to import art into other tools (see .tpb file export)
+* oh and a buggy but if you want it hard enough way to generate an xml/bmp file stream that you can use to import art into other tools (see .tpb file export)
 
 Brad P. Taylor,
 July 2016
