@@ -1,4 +1,4 @@
-# BPainT animation utility *preview* build.
+# BPainT pixel art animation tool *preview* build.
 
 I am looking for all the bits and pieces needed to get things compiling again, so there is no source in this preview.
 
