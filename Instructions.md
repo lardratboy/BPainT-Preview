@@ -17,7 +17,7 @@ Like many bespoke tools, BPainT has a bit of a learning curve and has some rough
 
 #### Startup (New Animation Showcase dialog)
 
-![New Animation Showcase dialog)(https://github.com/lardratboy/BPainT-Preview/raw/master/img/NewAnimationShowcaseDialog.PNG)
+![New Animation Showcase dialog)(https://github.com/lardratboy/BPainT-Preview/raw/master/img/NewAnimationShowcaseDialog.PNG?raw=true)
 
 ** more soon **
 
