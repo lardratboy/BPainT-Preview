@@ -17,7 +17,7 @@ Palette - an 8 bit CLUT table for RGB values
 
 When you first start BPainT you will see a dialog to start a new showcase - on this panel you will also find a popup of the recent documents if you have been editing.
 
-New Animation Showcase Dialog:(/img/NewAnimationShowcaseDialog.PNG)
+New Animation Showcase Dialog:(BPainT-Preview/img/NewAnimationShowcaseDialog.PNG)
 
 
 
