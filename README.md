@@ -4,7 +4,7 @@ I am looking for all the bits and pieces needed to get things compiling again, s
 
 ## A bit of context / history.
 
-BPainT is a pixel art/animation tool, it's main strength is in feeling comfortable to artists and animators who had used similar tools that I had written years earlier. Drawing tools wise you will find many of the same editing tools found in the legendary Deluxe Paint, not everything DP had is here but what is present should feel comfortable especially if you have any muscle memory from using Deluxe Paint IV.
+BPainT is a pixel art/animation tool (circa 2000), it's main strength is in feeling comfortable to artists and animators who had used similar tools that I had written years earlier. Drawing tools wise you will find many of the same editing tools found in the legendary Deluxe Paint, not everything DP had is here but what is present should feel comfortable especially if you have any muscle memory from using Deluxe Paint IV.
 
 ### Highlights
 
@@ -16,8 +16,7 @@ BPainT is a pixel art/animation tool, it's main strength is in feeling comfortab
 and
 
 * Hotkeys that are inspired by Deluxe Paint
-
-* oh and a buggy but if you want it hard enough way to generate an xml/bmp file stream that you can use to import art into other tools (see .tpb file export)
+* slightly quirky export/import function that turns the binary form of .bpt into an (xml like) .tpb file
 
 Brad P. Taylor,
 July 2016
