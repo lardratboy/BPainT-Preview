@@ -82,7 +82,7 @@ Live brush tracking and automatic focus - when enabled the program will set the 
 ### Two modes one UNDO (level) 
 
 * Composite mode has no undo - this is something I never added (best-laid plans...)
-* Active drawing is the only mode that has undo.  And that this undo modeled around how Deluxe Paint handled undo.  Basically UNDO in BPainT is an UNDO/REDO operation. 
+* Active drawing is the only mode that has undo.  The undo mimics how Deluxe Paint handled undo.  Basically UNDO in BPainT is an UNDO/REDO operation. 
 
 ### Drawing lines/circles with bitmaps (Brushes)
 
