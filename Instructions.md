@@ -9,16 +9,16 @@ Like many bespoke tools, BPainT has a bit of a learning curve and has some rough
 ### Some terms
 
 * Showcase - a collection of one or more animations (bpt files are showcase containers).
-* Animation - a collection of layer layers with animation frames.
+* Animation - a collection of layers with animation frames.
 * Annotation (or Text Annotation) - an editable text blob for scripting or notes.
 * Palette Based - 8 bit color lookup tables are used for RGB values  
 * Drawing Mode - when actively editing pixels
-* Composite Mode - a mode where layouts and animation involves positioning and reusing cels/visual elements.
-* Canvas - a rectangle used to define the bounding rectangle size of your animations. 
+* Composite Mode - a limited mode where animation involves positioning and reusing cels/visual elements.
+* Canvas - a rectangle used to define the bounding size of your animations. 
 * Visual Element - an image that can have more than one instance across the entire showcase.
-* Cel - an instance of a visual element used in an animation.
-* Index Based Transparent indices (0 for global and right button color for brush operations)
+* Cel/VisualElementReference - an instance of a visual element used in an animation.
 * Transparent - the color is not drawn (not the same as translucency)
+* Index Based Transparent indices (0 for global and right button color for brush pickup operations)
 * Pixels - are really 8 bit values to lookup RGB values from the contextual palette used.
 * Contextual Palette - animations can have multiple palettes each associated with a layer.
 * UNDO/REDO - BPainT has a very (primitive) undo system modeled directly on how Deluxe Paint handled it.
