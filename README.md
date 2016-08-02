@@ -1,6 +1,6 @@
-# BPainT pixel art animation tool *preview* build.
+# BPainT pixel art animation tool.
 
-I am looking for all the bits and pieces needed to get things compiling again, so there is currently no source in this project (good news on this front I finally located the exact machine I was using when I built this exact of BPainT, ha I knew being such a packrat was a good thing!).
+I am looking for all the bits and pieces needed to get things compiling again, so there is currently no source in this github project (good news on this front I finally located the exact machine I was using when I built this version of BPainT, ha I knew being such a packrat was a good thing!).
 
 ## A bit of context / history.
 
