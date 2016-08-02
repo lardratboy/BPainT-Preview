@@ -8,6 +8,7 @@ Like many bespoke tools, BPainT has a bit of a learning curve and has some rough
 
 ### Some terms
 
+* Bespoke - made to order ;)
 * Showcase - a collection of one or more animations (bpt files are showcase containers).
 * Animation - a collection of layers with animation frames.
 * Annotation (or Text Annotation) - an editable text blob for scripting or notes.
@@ -45,7 +46,7 @@ Shown above is the Palette tool window. The palette is displayed as a 16x16 grid
 
 Above is an example of setting color index 0 to RGB(170,0,170). To make this edit press (lowercase p) or double-click on the Palette window.
 
-## Two Transparent colors concepts
+## Two Transparent color concepts
 
 * Global transparent index is palette index 0 
 * The Brush transparent index is defined by right button index.
@@ -76,15 +77,28 @@ You will also notice I enabled the checker backdrop it helps in understanding ho
 
 ### Automatic window focus
 
-Live brush tracking and automatic focus - when enabled the program will set the focus to the window under the cursor. This  allows the views that have hotkeys that need to be associated with the active view to feel more natural.  This zoom to and scroll to hotkeys are the two that need this most. 
+Live brush tracking and automatic focus - when enabled the program will set the focus to the window under the cursor. This  allows the views that have hotkeys that need to be associated with the active view to feel more natural.  Zoom to and scroll to hotkeys are the two that need this most.
 
-### Two modes only one has an UNDO 
+### Two modes one UNDO (level) 
 
-* Composite mode has no undo - this is something I never added
+* Composite mode has no undo - this is something I never added (best-laid plans...)
 * Active drawing is the only mode that has undo.  And that this undo modeled around how Deluxe Paint handled undo.  Basically UNDO in BPainT is an UNDO/REDO operation. 
 
+### Drawing lines/circles with bitmaps (Brushes)
 
+### Special Brush Modes
 
+### Stencil Operations
+
+### Multiple Palettes and inheritance. 
+
+### Duplicate visual detection
+
+### Optimize and ('super' optimize)
+
+### Annotations/Notes
+
+### Export options
 
 ** more soon **
 
