@@ -4,7 +4,7 @@ I am looking for all the bits and pieces needed to get things compiling again, s
 
 ## A bit of context / history.
 
-BPainT is a bespoke pixel art/animation tool. I started this tool in 2000 and extended for handheld platforms like the GBA and work done for Nokia series 40 phones. The main strength is in feeling comfortable to artists and animators who had used similar tools that I had written years earlier. Drawing tools wise you will find many of the same editing tools found in the legendary Deluxe Paint, not everything DP had is here but what is present should feel comfortable especially if you have any muscle memory from using Deluxe Paint IV.
+BPainT is a bespoke pixel art/animation tool. I started this tool in 2000 and extended for handheld platforms like the GBA and work done for Nokia series 40 phones (talk about design constraints!). The main strength is in feeling comfortable to artists and animators who had used similar tools that I had written years earlier. Drawing tools wise you will find many of the same editing tools found in the legendary Deluxe Paint, not everything DP had is here but what is present should feel comfortable especially if you have any muscle memory from using Deluxe Paint IV.
 
 ### Highlights
 
