@@ -84,6 +84,37 @@ Live brush tracking and automatic focus - when enabled the program will set the 
 * Composite mode has no undo - this is something I never added (best-laid plans...)
 * Active drawing is the only mode that has undo.  The undo mimics how Deluxe Paint handled undo.  Basically UNDO in BPainT is an UNDO/REDO operation. 
 
+### Exploring keyboard input
+
+Press n to center the active view around the cursor location
+Press m to change the zoom the active view
+Press < to lower the zoom factor for the active view
+Press > to increase the zoom factor the active view
+
+#### Animation navigation keys
+
+Press 1 to move to the previous *FRAME*
+Press 2 to move to the next *FRAME*
+Press 3 to bring up the goto *FRAME* dialog
+Press 4 to start playing the active animation, press 4 again to stop
+Press 5 to move to the previous *LAYER*
+Press 6 to move to the next *LAYER*
+Press 9 to move to the previous *ANIMATION*
+Press 0 to move to the next *ANIMATION*
+
+### Basic drawing with the default brush type
+
+The default brush is an ellipse  
+
+Press . to set the brush to single pixel default brush
+Press - to decrease the drawing brush size
+Press = to increase the drawing brush size
+Press d to cycle through the freehand brush modes (Freehand,Spotty and Single)
+
+* Freehand mode - draws connected lines with the brush
+* Spotty mode - draws the active brush at each live mouse position 
+* Single mode - draws a single brush at the mouse down position
+
 ### Drawing lines/circles with bitmaps (Brushes)
 
 ### Special Brush Modes
