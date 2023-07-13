@@ -1,5 +1,7 @@
 # BPainT pixel art animation tool.
 
+(https://github.com/lardratboy/BPainT-Preview/raw/master/img/ShowVisualElementIDAnimGridContextMenu.PNG?raw=true)
+
 I am looking for all the bits and pieces needed to get things compiling again, so there is currently no source in this github project (good news on this front I finally located the exact machine I was using when I built this version of BPainT, ha I knew being such a packrat was a good thing!).
 
 ## A bit of context / history.
