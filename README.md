@@ -2,7 +2,7 @@
 
 ![Screenshot](https://github.com/lardratboy/BPainT-Preview/raw/master/img/ShowVisualElementIDAnimGridContextMenu.PNG?raw=true)
 
-I am looking for all the bits and pieces needed to get things compiling again, so there is currently no source in this github project (good news on this front I finally located the exact machine I was using when I built this version of BPainT, ha I knew being such a packrat was a good thing!).
+I finally checked in the source files found on an external hdd circa 2003 to 2005, I believe the code will compile with Visual Studio 2003.
 
 ## A bit of context / history.
 
